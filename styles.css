@@ -1,0 +1,10 @@
+body{
+    color: #ffffff;
+    background: linear-gradient(90deg,#012853, #4d75a6,#012853);
+    background-size: 100% 120%;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    font-size: 40px;
+}
